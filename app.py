@@ -156,7 +156,7 @@ st.plotly_chart(fig3)
 st.header('Vehicle types by manufacturer')
 st.write('To see the distribution of vehicle types by the manufacturer (e.g. how many Ford sedans vs. trucks are in this dataset')
 # create a plotly histogram figure
-fig4 = px.histogram(df, x='manufacturer', color='type', title='Vehicle type vs Manufacturer')
+fig4 = px.histogram(df, x='manufacturer', color='type', title="Distribution of vehicle types by the manufacturer")
 # display the figure with streamlit
 st.write(fig4)
 
