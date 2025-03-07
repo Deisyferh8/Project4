@@ -4,7 +4,7 @@ This project is an example of how to implement a Software Development tools in w
 
 # Watch the Demo example of the web aplication:
 <a href="https://youtu.be/bna15Zj6jUI"
-target="_blank">
+
 
 # Installation
 * Clone the repository to your computer.
@@ -35,11 +35,11 @@ pip install plotly
 
 #The link for github.com
 <a href= "https://github.com/Deisyferh8/Project4.git"
-target="_blank">
+
 
 #The link for render.com
 <a href= "https://deisi-henao-project-4.onrender.com"
-target="_blank">
+
 
 
 
