@@ -15,6 +15,9 @@ df = pd.read_csv('vehicles_us.csv')
 #Change the date type
 df['date_posted'] = pd.to_datetime(df['date_posted'], format='%Y-%m-%d')
 
+#Changing the 'price' column type
+df['price'].astype('Int64', errors='ignore')
+
 df['cylinders'].round(0)
 
 
