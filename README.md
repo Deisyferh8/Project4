@@ -1,19 +1,19 @@
 # Project4
-## Basic description
+# Basic description
 This project is an example of how to implement a Software Development tools in wich we can simulate random events using the Marked of used cars dataset. Every part of this project is sample code wich shows how to create a custom web server where you can have your inform with an interactive visualization using streamlit.
 
 # Watch the Demo example of the web aplication:
-url = https://youtu.be/bna15Zj6jUI
+https://youtu.be/bna15Zj6jUI
 
 
 # Installation
 * Clone the repository to your computer.
 * Install the required packages using pip: 
-pip install pandas
-pip install scipy
-pip install streamlit
-pip install altair
-pip install plotly
+  - pip install pandas
+  - pip install scipy
+  - pip install streamlit
+  - pip install altair
+  - pip install plotly
 
 # How to run the app from your local machine
 
@@ -33,12 +33,12 @@ pip install plotly
      - After that, you'll see the message: 
        "You can now view your Streamlit app in your browser"
 
-#The link for github.com
-url = https://github.com/Deisyferh8/Project4.git
+# The link for github.com
+https://github.com/Deisyferh8/Project4.git
 
 
-#The link for render.com
-url = https://deisi-henao-project-4.onrender.com
+# The link for render.com
+https://deisi-henao-project-4.onrender.com
 
 
 
